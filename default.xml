@@ -11,5 +11,5 @@
   
   <project path="device/google/sprout" name="android_device_google_sprout_5.0" />
   <project path="kernel/google/sprout" name="android_kernel_mediatek_sprout" />
-  <project path="vendor/google/sprout" name="android_vendor_google_sprout" revision="cm-11.0 />
+  <project path="vendor/google/sprout" name="android_vendor_google_sprout" revision="cm-11.0" />
   </manifest>
