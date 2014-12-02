@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote  name="github"
+           fetch="https://github.com/" />
+           
+ <default revision="cm-12.0"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />           
+  
+  <project path="device/google/sprout" name="android_device_google_sprout_5.0" />
+  <project path="kernel/google/sprout" name="android_kernel_mediatek_sprout" />
+  <project path="vendor/google/sprout" name="android_vendor_google_sprout" revision="cm-11.0 />
+  </manifest>
