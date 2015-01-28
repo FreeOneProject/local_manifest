@@ -3,6 +3,6 @@
     
   <project path="device/google/sprout" name="FreeOneProject/device_google_sprout" revision="cm-12.0"  />
   <project path="kernel/google/sprout" name="FreeOneProject/kernel_google_sprout" revision="cm-12.0"  />
-  <project path="vendor/google/sprout" name="FreeOneProject/proprietary_vendor_google" revision="cm-12.0"  />
+  <project path="vendor/google" name="FreeOneProject/proprietary_vendor_google" revision="cm-12.0"  />
   
   </manifest>
